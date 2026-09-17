@@ -37,7 +37,7 @@ footer .footer-links a{
 .section-label{font-size:10px;letter-spacing:.2em;font-weight:600;color:var(--muted);margin-bottom:55px}
 .intro-main{max-width:1050px;margin-left:auto}
 .display-text{font:500 clamp(40px,6vw,88px)/1.04 var(--display);letter-spacing:-.055em}
-.display-text span{color:#357A39 !important}
+.display-text span{color:#79A869 !important}
 .intro-bottom{display:flex;justify-content:space-between;gap:50px;margin-top:75px;padding-left:25%;border-top:1px solid var(--line);padding-top:28px}
 .intro-bottom p{max-width:380px;color:var(--muted);font-size:14px;line-height:1.7}
 .text-link{font-size:12px;height:max-content;border-bottom:1px solid var(--ink);padding-bottom:7px;white-space:nowrap}
