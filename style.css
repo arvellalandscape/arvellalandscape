@@ -9,8 +9,8 @@ a{color:inherit;text-decoration:none}
 .loader{position:fixed;inset:0;background:var(--ink);z-index:1000;display:grid;place-items:center;transition:.8s cubic-bezier(.77,0,.18,1)}
 .loader-mark{color:var(--cream);font:700 70px var(--display);opacity:.9}
 body.loaded .loader{transform:translateY(-100%)}
-.nav{height:82px;position:fixed;top:0;left:0;right:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:0 4.5vw;color:#fff;}
-.brand{font:800 17px var(--display);letter-spacing:.12em;display:flex;align-items:center;gap:10px}
+.nav{height:82px;position:fixed;top:0;left:0;right:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:0 4.5vw;color:#111;}
+.brand{font:800 17px var(--display);letter-spacing:.12em;display:flex;align-items:center;gap:10px;color:#111}
 .brand-dot{width:8px;height:8px;border-radius:50%;background:currentColor;display:inline-block}
 .desktop-menu{display:flex;gap:34px;font-size:13px}
 .desktop-menu a,.footer-links a{opacity:.78;transition:.25s}
