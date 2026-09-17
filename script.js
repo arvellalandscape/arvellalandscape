@@ -1,6 +1,4 @@
-window.addEventListener("load", () => {
-  setTimeout(() => document.body.classList.add("loaded"), 350);
-});
+
 
 const nav = document.getElementById("nav");
 
