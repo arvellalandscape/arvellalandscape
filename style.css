@@ -80,7 +80,7 @@ footer .footer-links a{
 .contact-main>div p{font-size:14px;line-height:1.7;color:var(--muted);max-width:310px;margin-bottom:35px}
 .contact-button{display:flex;justify-content:space-between;gap:50px;width:100%;max-width:400px;border-bottom:1px solid var(--ink);padding-bottom:13px;font-size:12px}
 footer{padding:30px 4.5vw;border-top:1px solid var(--line);display:grid;grid-template-columns:1fr 1fr 1fr;align-items:center}
-.footer-links{display:flex;gap:25px;justify-content:center;font-size:11px}
+.footer-links{display:flex;gap:35px;justify-content:center;font-size:18px}
 footer p{text-align:right;color:var(--muted);font-size:10px}
 @media(max-width:800px){
  .desktop-menu,.nav-cta{display:none}.menu-toggle{display:flex;flex-direction:column;gap:5px}.menu-toggle span{display:block;width:24px;height:1px;background:#111!important}
@@ -94,5 +94,8 @@ footer p{text-align:right;color:var(--muted);font-size:10px}
 .nav{color:#fff}
 .brand{font:800 17px var(--display);color:#fff}
 .desktop-menu a{color:inherit}
-.menu-toggle span{background:#fff!important}  
+.menu-toggle span{background:#fff!important} 
+.footer-links{
+  gap:28px;
+  font-size:17px
 }
