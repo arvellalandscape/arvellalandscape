@@ -9,10 +9,10 @@ a{color:inherit;text-decoration:none}
 .nav{height:82px;position:fixed;top:0;left:0;right:0;z-index:20;display:flex;align-items:center;justify-content:space-between;padding:0 4.5vw;color:#fff;}
 .brand{font:800 17px var(--display);letter-spacing:.12em;display:flex;align-items:center;gap:10px;color:#fff}
 .brand-dot{width:8px;height:8px;border-radius:50%;background:currentColor;display:inline-block}
-.desktop-menu{display:flex;gap:40px;font-size:15px;font-weight:700}
+.desktop-menu{display:flex;gap:42px;font-size:17px;font-weight:800}
 .desktop-menu a,.footer-links a{color:#fff;opacity:.85;transition:.25s}
 .desktop-menu a:hover,.footer-links a:hover{opacity:1}
-.nav-cta{border:1px solid rgba(255,255,255,.7);border-radius:99px;padding:15px 25px;font-size:14px;font-weight:700}
+.nav-cta{border:1px solid rgba(255,255,255,.7);border-radius:99px;padding:17px 30px;font-size:14px;font-weight:800}
 .nav-cta span{margin-left:16px}
 .menu-toggle{display:none;background:none;border:0}
 .hero{height:100vh;min-height:680px;position:relative;color:#fff;display:flex;align-items:flex-end;padding:0 7vw 8vh;overflow:hidden}
